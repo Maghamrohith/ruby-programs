@@ -1,0 +1,1 @@
+defarithmetic(a,b,"operator")
